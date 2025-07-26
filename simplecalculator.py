@@ -20,6 +20,7 @@ while True:
     elif operation==4:
         print(num1/num2)
     elif operation==0:
+        print(Thank you...!!)
         break
     else:
         print("Invalid Option! Please Try Again")
